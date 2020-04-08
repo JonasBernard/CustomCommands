@@ -37,7 +37,7 @@ I just tested it with that version yet, you can test is with other versions if y
 
 ## What is planned
 As you can see in the code, I just started programming.
-    -[] The next thing that I might add is, that the executing user needs to have given permissions.
+  - The next thing that I might add is, that the executing user needs to have given permissions.
 
 ## Contribute
 Feel free to fork and extend the project and then create a pull request.
