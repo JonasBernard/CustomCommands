@@ -1,0 +1,8 @@
+main: main.main
+name: CostomCommands
+version: 1.0
+author: TheRealJonas
+
+commands:
+  desciption: Add a custom command to the server.
+  usage: /<command> <name> <command>
