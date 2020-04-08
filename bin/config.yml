@@ -1,5 +1,0 @@
-commands:
-  customcommand:
-      alias: 'cc'
-      command: 'help cc'
-      description: 'Display help for customcommands'

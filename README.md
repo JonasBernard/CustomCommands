@@ -32,7 +32,7 @@ Then simply put the jar file into your `plugins` folder on the server. Reload yo
 There you have it.
 
 ### Versions
-The code is complied against the Spigot Server for Minecraft 1.15.2 and Java SDK 11.
+The code is complied against the Spigot Server for Minecraft 1.15.2 and Java SDK 8.
 I just tested it with that version yet, you can test is with other versions if you want to.
 
 ## What is planned
