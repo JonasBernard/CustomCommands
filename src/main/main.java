@@ -77,7 +77,7 @@ public class main extends JavaPlugin {
 			CommandMap commandMap = (CommandMap) bukkitCommandMap.get(getServer());
 			
 			for (CustomCommand customCommand : customCommands) {
-				commandMap.register("customcommands" , new Command(customCommand.alias, "Executes \"/" + customCommand.command + " \"", "/<command>", new ArrayList<>()) {
+				commandMap.register("customcommands" , new Command(customCommand.alias, customCommand.description, "/<command>", new ArrayList<>()) {
 					
 					@Override
 					public boolean execute(CommandSender sender, String arg1, String[] arg2) {

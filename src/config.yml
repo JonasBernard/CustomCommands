@@ -2,4 +2,4 @@ commands:
   customcommand:
       alias: 'cc'
       command: 'help cc'
-      description: 'help for customcommands'
+      description: 'Display help for customcommands'
